@@ -1,5 +1,7 @@
 # PERSONAL PATTERNS
-Padrões de nomenclatura.
+Padrões de nomenclatura e organização.
+
+<br>
 
 ## Repositórios Github
 
@@ -26,27 +28,63 @@ Padrões de nomenclatura.
 > #### TÓPICOS GERAIS
 * Texto.
 * Texto.
+
+> #### TÓPICOS GERAIS
+* Texto.
 * Estrutura ou representação importante:
   - Descrição
-* ***Palavras em destaque***
-* *Palavras estrangeiras*
+
+Ex: Exemplos  
+Ex: Exemplos  
+Ex: Exemplos  
+
+> #### TÓPICOS GERAIS
+* Texto.
+* ***Palavras em destaque*** no texto.
+* *Palavras estrangeiras* no texto.
+
+<br> Espaçamento
+
+## Anotações e Documentação
+
+> #### TÓPICOS GERAIS
+* Texto.
 * Listas:
   - Texto
   - Texto
   - Texto
 
-##### PROCESSOS
-1. Descrição
-2. Descrição
-3. Descrição
-4. Descrição
-
-Ex: Exemplos  
-Ex: Exemplos  
-Ex: Exemplos
+> #### TÓPICOS GERAIS
+* Texto.
+* Texto.
 
 ##### SUBTÓPICOS
-* Texto
+* Texto.
+* Texto.
 
 > ##### Tópicos em subtópicos
-* Texto
+* Texto.
+* Texto.
+
+> #### TÓPICOS GERAIS
+* Texto.
+* Texto.
+
+##### PROCESSOS
+1. Descrição.
+2. Descrição.
+3. Descrição.
+4. Descrição.
+
+> #### TÓPICOS GERAIS
+* Texto.
+* Texto.
+
+Ex: Exemplos com passo a passo  
+1. Descrição.
+2. Descrição.
+3. Descrição.
+4. Descrição.
+
+***DICA***:Texto.
+
