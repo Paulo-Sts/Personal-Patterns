@@ -5,15 +5,15 @@ Padrões de nomenclatura e organização.
 
 ## Repositórios Github
 
-> #### Anotações Estudos
+> #### ANOTAÇÕES ESTUDOS
 
 * NomeNome (Pascal Case)
 
-> #### Prática de Estudos
+> #### PRÁTICA DE ESTUDOS
 
 * nome-nome (Kebab Case)
 
-> #### Projetos 
+> #### PROJETOS
 
 * project-nome-nome (Kebab Case)
 * nome-front-end (Kebab Case)
