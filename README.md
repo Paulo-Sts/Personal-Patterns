@@ -98,10 +98,8 @@ Descrição da observação Descrição da observação Descrição da observaç
 
 <br>
 
-
 > DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
 > DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE 
-
 
 <br>
 
