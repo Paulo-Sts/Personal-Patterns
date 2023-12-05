@@ -93,3 +93,8 @@ Descrição da observação Descrição da observação Descrição da observaç
 DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
 DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE 
 ```
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |

@@ -1,19 +1,19 @@
-# PERSONAL PATTERNS
+# Personal Patterns
 Padrões de nomenclatura e organização.
 
 <br>
 
-## Repositórios Github
+## REPOSITÓRIOS GITHUB
 
-> #### ANOTAÇÕES ESTUDOS
+> ### Anotações estudos
 
 * NomeNome (Pascal Case)
 
-> #### PRÁTICA DE ESTUDOS
+> ### Prática de estudos
 
 * nome-nome (Kebab Case)
 
-> #### PROJETOS
+> ### Projetos
 
 * project-nome-nome (Kebab Case)
 * nome-front-end (Kebab Case)
@@ -21,15 +21,15 @@ Padrões de nomenclatura e organização.
 
 <br>
 
-## Anotações e Documentação
+## ANOTAÇÕES E DOCUMENTAÇÃO
 * Texto.
 * Texto.
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Texto.
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Estrutura ou representação importante:
   - Descrição
@@ -38,45 +38,45 @@ Ex: Exemplos
 Ex: Exemplos  
 Ex: Exemplos  
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * ***Palavras em destaque*** no texto.
 * *Palavras estrangeiras* no texto.
 
 <br> Espaçamento
 
-## Anotações e Documentação
+## ANOTAÇÕES E DOCUMENTAÇÃO
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Listas:
   - Texto
   - Texto
   - Texto
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Texto.
 
-##### SUBTÓPICOS
+#### Subtópicos
 * Texto.
 * Texto.
 
-> ##### Tópicos em subtópicos
+##### Tópicos em subtópicos
 * Texto.
 * Texto.
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Texto.
 
-##### PROCESSOS
+#### Processos
 1. Descrição.
 2. Descrição.
 3. Descrição.
 4. Descrição.
 
-> #### TÓPICOS GERAIS
+> ### Subtópicos gerais
 * Texto.
 * Texto.
 
@@ -88,3 +88,15 @@ Ex: Exemplos com passo a passo
 
 ***DICA***:Texto.
 
+**Observação:**  
+Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
+
+```
+DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
+DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE 
+```
+
+| Título    | Título    |
+| --------- | --------- |
+| Descrição | Descrição |
+| Descrição | Descrição |
