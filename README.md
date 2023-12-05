@@ -15,7 +15,8 @@ Padrões de nomenclatura e organização.
 
 > ### Projetos
 
-* project-nome-descrição-versão (Kebab Case)
+* project-nome-nome (Kebab Case)
+* nome-descrição-versão (Kebab Case)
 * nome-front (Kebab Case)
 * nome-back (Kebab Case)
 
