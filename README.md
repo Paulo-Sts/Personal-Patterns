@@ -16,8 +16,11 @@ Padrões de nomenclatura e organização.
 > ### Projetos
 
 * project-nome-nome (Kebab Case)
-* nome-front-end (Kebab Case)
-* nome-back-end (Kebab Case)
+* nome-descrição-versão (Kebab Case)
+* nome-front (Kebab Case)
+* nome-back (Kebab Case)
+
+
 
 <br>
 
@@ -37,6 +40,11 @@ Padrões de nomenclatura e organização.
 Ex: Exemplos  
 Ex: Exemplos  
 Ex: Exemplos  
+
+Exemplo:  
+a + b = c  
+c - d = e  
+e * g = f  
 
 > ### Subtópicos gerais
 * Texto.
@@ -91,10 +99,14 @@ Ex: Exemplos com passo a passo
 **Observação:**  
 Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
 
+<br>
+
 ```
 DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
 DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE 
 ```
+
+<br>
 
 | Título    | Título    |
 | --------- | --------- |
