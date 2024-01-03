@@ -5,14 +5,16 @@ Padrões de nomenclatura e organização.
 
 ## DESENVOLVIMENTO DE SOFTWARE
 
-> ### Repositórios de Anotações de estudos
+> ### Repositórios
+
+#### Anotações de estudos
 * NomeNome (Pascal Case)
 
-> ### Repositórios de exercícios e prática de estudos
+#### Prática de estudos
 * nome-nome (Kebab Case)
 * nome_nome (Snake Case)
 
-> ### Repositórios de projetos
+#### Projetos
 * project-nome-descrição-versão (Kebab Case)
 * nome-front (Kebab Case)
 * nome-back (Kebab Case)
