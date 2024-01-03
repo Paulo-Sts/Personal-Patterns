@@ -7,7 +7,6 @@ Padrões de nomenclatura e organização.
 
 > ### Anotações estudos
 * NomeNome (Pascal Case)
-* Nome_nome (Snake Case)
 
 > ### Prática de estudos
 * nome-nome (Kebab Case)
@@ -16,6 +15,7 @@ Padrões de nomenclatura e organização.
 * project-nome-descrição-versão (Kebab Case)
 * nome-front (Kebab Case)
 * nome-back (Kebab Case)
+* nome_descrição_versão (Snake Case)
 
 <br>
 
