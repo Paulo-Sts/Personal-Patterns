@@ -29,10 +29,10 @@ Padrões de nomenclatura e organização.
 * nome-nome (Kebab Case)
 * nome_nome (Snake Case)
 
-#### Classes e módulos
+#### Classes 
 * NomeNome (Pascal Case)
 
-#### Variáveis, atributos, funções e métodos
+#### Variáveis, atributos, funções, métodos e módulos
 * nomeNome (Camel Case)
 * nome_nome (Snake Case)
 
