@@ -20,6 +20,26 @@ Padrões de nomenclatura e organização.
 * nome-back (Kebab Case)
 * nome_descrição_versão (Snake Case)
 
+> ### Código
+
+#### Pastas
+* nome-nome (Kebab Case)
+
+#### Arquivos 
+* nome-nome (Kebab Case)
+* nome_nome (Snake Case)
+
+#### Classes e módulos
+* NomeNome (Pascal Case)
+
+#### Variáveis, atributos, funções e métodos
+* nomeNome (Camel Case)
+* nome_nome (Snake Case)
+
+#### Constantes
+* nomeNome (Camel Case)
+* NOME_NOME (Screaming Snake Case)
+
 <br>
 
 ## ANOTAÇÕES E DOCUMENTAÇÃO
