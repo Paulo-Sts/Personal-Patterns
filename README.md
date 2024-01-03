@@ -6,15 +6,13 @@ Padrões de nomenclatura e organização.
 ## REPOSITÓRIOS GITHUB
 
 > ### Anotações estudos
-
 * NomeNome (Pascal Case)
+* Nome_nome (Snake Case)
 
 > ### Prática de estudos
-
 * nome-nome (Kebab Case)
 
 > ### Projetos
-
 * project-nome-descrição-versão (Kebab Case)
 * nome-front (Kebab Case)
 * nome-back (Kebab Case)
