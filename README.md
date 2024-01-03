@@ -10,6 +10,7 @@ Padrões de nomenclatura e organização.
 
 > ### Prática de estudos
 * nome-nome (Kebab Case)
+* nome_nome (Snake Case)
 
 > ### Projetos
 * project-nome-descrição-versão (Kebab Case)
