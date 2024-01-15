@@ -112,7 +112,7 @@ Ex: Exemplos com passo a passo
 3. Descrição.
 4. Descrição.
 
-***DICA:***Texto.
+***DICA:*** Texto.
 
 **Observação:**  
 Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
