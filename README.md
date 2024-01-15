@@ -66,8 +66,8 @@ e * g = f
 
 > ### Subtópicos gerais
 * Texto.
-* ***Palavras em destaque*** no texto.
-* *Palavras estrangeiras* no texto.
+* **Palavras em destaque** no texto.
+* ***Palavras estrangeiras*** no texto.
 
 <br> Espaçamento
 
