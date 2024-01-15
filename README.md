@@ -114,8 +114,7 @@ Ex: Exemplos com passo a passo
 
 ***DICA:*** Texto.
 
-**Observação:**  
-Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
+**Observação:** Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
 
 <br>
 
