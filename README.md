@@ -97,9 +97,9 @@ e * g = f
 * Texto.
 
 #### Processos
-1. Descrição.
-2. Descrição.
-3. Descrição.
+1. Descrição;
+2. Descrição;
+3. Descrição;
 4. Descrição.
 
 > ### Subtópicos gerais
@@ -112,7 +112,7 @@ Ex: Exemplos com passo a passo
 3. Descrição.
 4. Descrição.
 
-***DICA***:Texto.
+***DICA:***Texto.
 
 **Observação:**  
 Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação Descrição da observação.
