@@ -7,10 +7,10 @@ Padrões de nomenclatura e organização.
 
 > ### Repositórios
 
-#### Anotações de Estudos
+#### Anotações de estudos
 * NomeNome (Pascal Case)
 
-#### Prática de Estudos
+#### Prática de estudos
 * nome-nome (Kebab Case)
 * nome_nome (Snake Case)
 
