@@ -46,11 +46,11 @@ Padrões de nomenclatura e organização.
 * Texto.
 * Texto.
 
-> ### Subtópicos gerais
+> ### Detalhamento do Tópico Principal/Destaque
 * Texto.
 * Texto.
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * Estrutura ou representação importante:
   - Descrição
@@ -64,7 +64,7 @@ a + b = c
 c - d = e  
 e * g = f  
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * **Palavras em destaque** no texto.
 * ***Palavras estrangeiras*** no texto.
@@ -72,15 +72,17 @@ e * g = f
 <br> Espaçamento
 
 ## ANOTAÇÕES E DOCUMENTAÇÃO
+* Texto.
+* Texto.
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * Listas:
   - Texto;
   - Texto;
   - Texto.
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * Texto.
 
@@ -92,7 +94,7 @@ e * g = f
 * Texto.
 * Texto.
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * Texto.
 
@@ -102,7 +104,7 @@ e * g = f
 3. Descrição;
 4. Descrição.
 
-> ### Subtópicos gerais
+### SUBTÓPICOS GERAIS DERIVADOS
 * Texto.
 * Texto.
 
