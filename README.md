@@ -50,7 +50,7 @@ Padrões de nomenclatura e organização.
 * Texto.
 * Texto.
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * Estrutura ou representação importante:
   - Descrição
@@ -64,7 +64,7 @@ a + b = c
 c - d = e  
 e * g = f  
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * **Palavras em destaque** no texto.
 * ***Palavras estrangeiras*** no texto.
@@ -75,14 +75,14 @@ e * g = f
 * Texto.
 * Texto.
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * Listas:
   - Texto;
   - Texto;
   - Texto.
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * Texto.
 
@@ -94,7 +94,7 @@ e * g = f
 * Texto.
 * Texto.
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * Texto.
 
@@ -104,7 +104,7 @@ e * g = f
 3. Descrição;
 4. Descrição.
 
-### SUBTÓPICOS GERAIS DERIVADOS
+### Subtópicos gerais derivados
 * Texto.
 * Texto.
 
