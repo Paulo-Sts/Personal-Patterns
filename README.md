@@ -46,7 +46,7 @@ Padrões de nomenclatura e organização.
 * Texto.
 * Texto.
 
-> ### Detalhamento do Tópico Principal/Destaque
+> ### Detalhamento do tópico principal
 * Texto.
 * Texto.
 
