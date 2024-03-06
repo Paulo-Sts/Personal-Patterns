@@ -76,9 +76,9 @@ e * g = f
 > ### Subtópicos gerais
 * Texto.
 * Listas:
-  - Texto
-  - Texto
-  - Texto
+  - Texto;
+  - Texto;
+  - Texto.
 
 > ### Subtópicos gerais
 * Texto.
