@@ -107,9 +107,9 @@ e * g = f
 * Texto.
 
 Ex: Exemplos com passo a passo  
-1. Descrição.
-2. Descrição.
-3. Descrição.
+1. Descrição;
+2. Descrição;
+3. Descrição;
 4. Descrição.
 
 ***DICA:*** Texto.
@@ -125,7 +125,7 @@ DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
 
 <br>
 
-| Título    | Título    |
+| TÍTULO    | TÍTULO    |
 | --------- | --------- |
 | Descrição | Descrição |
 | Descrição | Descrição |
