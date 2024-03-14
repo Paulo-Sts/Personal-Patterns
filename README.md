@@ -68,6 +68,7 @@ e * g = f
 * Texto.
 * **Palavras em destaque** no texto.
 * ***Palavras estrangeiras*** no texto.
+* *Palavras de sentido interno* no texto.
 
 <br> Espaçamento
 
