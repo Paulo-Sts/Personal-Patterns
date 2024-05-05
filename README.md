@@ -121,10 +121,8 @@ Ex: Exemplos com passo a passo
 
 <br>
 
-~~~
-DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE
-DESTAQUE DESTAQUE DESTAQUE DESTAQUE DESTAQUE 
-~~~
+> Citação:  
+> "Frase frase frase frase frase frase" 
 
 <br>
 
