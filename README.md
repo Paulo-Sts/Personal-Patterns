@@ -8,38 +8,39 @@ Padrões de nomenclatura e organização.
 > ### Repositórios
 
 #### Anotações de estudos
-* NomeNome (Pascal Case)
-* Nome-Nome (Pascal-Kebab Case)
+* NomeNome (Pascal case)
+* Nome-Nome (Pascal-Kebab case)
+* NOME-NOME (Screaming kebab case)
 
 #### Prática de estudos
-* nome-nome (Kebab Case)
-* nome_nome (Snake Case)
+* nome-nome (Kebab case)
+* nome_nome (Snake case)
 
 #### Projetos
-* project-nome-descrição-versão (Kebab Case)
-* nome-front (Kebab Case)
-* nome-back (Kebab Case)
-* nome_descrição_versão (Snake Case)
+* project-nome-descrição-versão (Kebab case)
+* nome-front (Kebab case)
+* nome-back (Kebab case)
+* nome_descrição_versão (Snake case)
 
 > ### Código
 
 #### Pastas
-* nome-nome (Kebab Case)
+* nome-nome (Kebab case)
 
 #### Arquivos 
-* nome-nome (Kebab Case)
-* nome_nome (Snake Case)
+* nome-nome (Kebab case)
+* nome_nome (Snake case)
 
 #### Classes 
-* NomeNome (Pascal Case)
+* NomeNome (Pascal case)
 
 #### Variáveis, atributos, funções, métodos e módulos
-* nomeNome (Camel Case)
-* nome_nome (Snake Case)
+* nomeNome (Camel case)
+* nome_nome (Snake case)
 
 #### Constantes
-* nomeNome (Camel Case)
-* NOME_NOME (Screaming Snake Case)
+* nomeNome (Camel case)
+* NOME_NOME (Screaming snake case)
 
 <br>
 
