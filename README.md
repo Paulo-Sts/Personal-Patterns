@@ -9,7 +9,7 @@ Padrões de nomenclatura e organização.
 
 #### Anotações de estudos
 * NomeNome (Pascal Case)
-* Nome-Nome (Pascal-kebab Case)
+* Nome-Nome (Pascal-Kebab Case)
 
 #### Prática de estudos
 * nome-nome (Kebab Case)
