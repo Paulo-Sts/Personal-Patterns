@@ -47,7 +47,7 @@ Padrões de nomenclatura e organização.
 # Título Principal
 
 ## Subtítulo 1
-Texto, texto, texto.
+- Texto, texto, texto.
 
 ### Subseção 1.1
 
@@ -69,12 +69,12 @@ Texto, texto, texto.
 ## 1.1 Subtítulo
 
 ### 1.1.1 Subseção
-Exemplo:
+- Exemplo:
   - descrição
-Exemplos:
+- Exemplos:
   - Descrição
   - Descrição
-Exemplo: Descrição
+- Exemplo: Descrição
 
 Ex.: Exemplos  
 Ex.: Exemplos  
@@ -86,9 +86,9 @@ c - d = e
 e * g = f  
 
 ### 1.1.2 Subseção
-Parágrafo (descrição).  
-Parágrafo (Ex.: descrição).  
-Estrutura ou representação importante:
+- Parágrafo (descrição).  
+- Parágrafo (Ex.: descrição).  
+- Estrutura ou representação importante:
   - Descrição
 
 #### Tabela
@@ -99,12 +99,12 @@ Estrutura ou representação importante:
 | Maria      | 30    | Rio de Janeiro|
 
 ### Subseção
-Texto.
-**Palavras em destaque** no texto.
-*Palavras estrangeiras* no texto não incorporadas ao português.
-***Palavras de sentido interno*** no texto.
+- Texto.
+- **Palavras em destaque** no texto.
+- *Palavras estrangeiras* no texto não incorporadas ao português.
+- ***Palavras de sentido interno*** no texto.
 
-##### Citação:  
+> Citação:  
 > "Frase frase frase frase frase frase"
 
 #### Processos
@@ -134,7 +134,7 @@ Ex: Exemplo com passo a passo
 - #, ##, ### para hierarquia de títulos.
 - Listas: * ou -.
 - Citações: Use >.
-- Parágrafo normal: Texto contínuo, sem marcadores.
+- Parágrafo normal: Texto contínuo, com marcador simples -.
 - Lista de ideias: Use *, -, + ou números para enumerar itens.
 - Lista de ideias:
   - Ponto final (.) se os itens forem frases completas e independentes.
