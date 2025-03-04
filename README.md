@@ -149,3 +149,4 @@ Ex: Exemplo com passo a passo
 - Negrito: 	Para ênfase.
 - Itálico: Para palavras estrangeiras não incorporadas ao português.
 - Negrito e Itálico: Para palavras com sentido interno (metalinguagem).
+- Dois pontos: se for destacado deve estar dentro do negrito **dois pontos:**
