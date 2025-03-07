@@ -142,7 +142,7 @@ Ex: Exemplo com passo a passo
   - Evitar sinais em listas muito curtas ou de palavras-chave.
 - Numerar tópicos e títulos quando:
   - O documento for longo e com várias seções.
-  - Precisar referenciar partes específicas do texto (ex.: "Veja a seção 2.1").
+  - Precisar referenciar partes específicas do texto (ex.: "veja a seção 2.1").
   - O texto for técnico ou acadêmico, onde a organização hierárquica é importante.
 - Espaçamento: Deixar 1 linha em branco para separar seções.
 - Tabela: Cabeçalho em caixa alta, itens em Setence Case.
