@@ -87,7 +87,7 @@ e * g = f
 
 ### 1.1.2 Subseção
 - Parágrafo (descrição).  
-- Parágrafo (Ex.: descrição).  
+- Parágrafo (ex.: descrição).  
 - Estrutura ou representação importante:
   - Descrição
 
