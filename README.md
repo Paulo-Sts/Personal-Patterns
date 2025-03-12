@@ -1,7 +1,7 @@
 # Personal Patterns
 Padrões de nomenclatura e organização.
 
-## DESENVOLVIMENTO DE SOFTWARE
+## Desenvolvimento de Software
 
 > ### Repositórios
 
@@ -49,7 +49,7 @@ Padrões de nomenclatura e organização.
 ## Subtítulo 1
 - Texto, texto, texto.
 
-### Subseção 1.1
+> ### Subseção 1.1
 
 #### Subtópico 1.1.1
 
@@ -98,7 +98,7 @@ e * g = f
 | João       | 25    | São Paulo    |
 | Maria      | 30    | Rio de Janeiro|
 
-### Subseção
+> ### Subseção
 - Texto.
 - **Palavras em destaque** no texto.
 - *Palavras estrangeiras* no texto não incorporadas ao português.
@@ -135,7 +135,7 @@ Ex: Exemplo com passo a passo
 - Listas: * ou -.
 - Citações: Use >.
 - Parágrafo normal: Texto contínuo, com marcador simples -.
-- Lista de ideias: Use *, -, + ou números para enumerar itens.
+- Lista de ideias: Use - ou números para enumerar itens.
 - Lista de ideias:
   - Ponto final (.) se os itens forem frases completas e independentes.
   - Ponto e vírgula (;) se os itens forem curtos e relacionados.
